@@ -2,7 +2,7 @@
 Portafolio de métodos de ordenamiento con el de lenguaje programación python
 
 ### Autor:
-[MiguelAnggel](https://github.com/MiguelAnggel)
+[migueeldev](https://github.com/migueeldev)
 
 ### Algoritmos desarrollados:
 
